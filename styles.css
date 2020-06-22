@@ -2,3 +2,9 @@ h1{
     text-align: center;
     margin: 10% 30% 0 30%;
 }
+
+p{
+    margin: 2%  5% 0  5%;
+    text-align: center;
+    color: blue;
+}
